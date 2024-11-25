@@ -1,0 +1,8 @@
+# rev 0 - original game downloaded
+# rev 1 -  added a second ball, changed screen color,
+# rev 2a - add paddles to top and bottom, changed paddle color
+# rev 3c - changed keys for top and bottom paddles;
+#          added start by hitting "e" and stop play after score, and quit
+# rev 3d - removed quit and stopplay - made play too jerky
+# rev 4 - added sound effects
+# rev 4a -removed sound effects: made game hesitate too much 
