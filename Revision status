@@ -6,3 +6,5 @@
 # rev 3d - removed quit and stopplay - made play too jerky
 # rev 4 - added sound effects
 # rev 4a -removed sound effects: made game hesitate too much 
+# rev 5a - fixed the ball colors and ball direction at start
+#        - actualy removed stopplay
